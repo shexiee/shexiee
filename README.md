@@ -126,7 +126,7 @@ favorite:     Cafes, Games, & Music
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shexiee&bg_color=0C0812&color=F472B6&line=C084FC&point=FDF4FF&area=true&hide_border=true&custom_title=my%20commit%20rhythm%20%E2%99%A1" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shexiee&bg_color=0C0812&color=F472B6&line=C084FC&point=FDF4FF&area=true&hide_border=true&custom_title=my%20repository%20commits" width="98%"/>
 
 </div>
 
