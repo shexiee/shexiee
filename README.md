@@ -115,23 +115,6 @@ favorite:     Cafes, Games, & Music
 
 <br/>
 
-<!-- ─── Stats ──────────────────────────────────────── -->
-
-### 🌙 &nbsp; Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shexiee&show_icons=true&hide_title=true&count_private=true&hide_border=true&title_color=F472B6&icon_color=C084FC&text_color=B899CC&bg_color=0C0812"/>
-<img height="170" src="https://streak-stats.demolab.com?user=shexiee&hide_border=true&background=0C0812&ring=F472B6&fire=C084FC&currStreakLabel=F472B6&sideLabels=B899CC&dates=B899CC&currStreakNum=FDF4FF&sideNums=FDF4FF&stroke=2D1F42"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shexiee&bg_color=0C0812&color=F472B6&line=C084FC&point=FDF4FF&area=true&hide_border=true&custom_title=my%20repository%20commits" width="98%"/>
-
-</div>
-
-<br/>
-
 
 <!-- ─── Quote ──────────────────────────────────────── -->
 
