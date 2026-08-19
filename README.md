@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fraunces&weight=400&style=italic&size=44&pause=1500&color=F472B6&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I'm+Sherlyn+%E2%9C%BF;Welcome+to+my+github+profile+%F0%9F%8C%B8;Let's+build+something+cool+%F0%9F%92%AB)](https://git.io/typing-svg)
 
-<sub>**Data Analyst** · **Applied AI Engineer** · **Software Developer**</sub>
+<sub>**Data Analyst** · **AI Engineer** · **Software Developer**</sub>
 
 <br/>
 
@@ -132,17 +132,6 @@ favorite:     Cafes, Games, & Music
 
 <br/>
 
-<!-- ─── Trophy Wall ────────────────────────────────── -->
-
-### 💌 &nbsp; Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shexiee&theme=radical&no-bg=true&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
 
 <!-- ─── Quote ──────────────────────────────────────── -->
 
