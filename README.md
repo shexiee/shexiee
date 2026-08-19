@@ -27,7 +27,7 @@
 
 ```yaml
 name:         Sherlyn Olalo
-role:         AI Executive @ Lifewood Data Technology
+role:         Data Analyst / Power BI Developer
 location:     Cebu, Philippines
 education:    BS Information Technology, CIT-U
 favorite:     Cafes, Games, & Music
